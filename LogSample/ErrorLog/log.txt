@@ -1,0 +1,18 @@
+2019-06-13 11:31:43,352 [6] DEBUG LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Debug Level
+2019-06-13 11:31:43,454 [6] INFO  LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Info Level
+2019-06-13 11:31:43,455 [6] WARN  LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Warn Level
+2019-06-13 11:31:43,497 [6] ERROR LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Error Level
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at LogSample.Controllers.HelloWorldController.Index() in C:\Users\raga\Source\Repos\LogSample\LogSample\Controllers\HelloWorldController.cs:line 21
+2019-06-13 11:31:43,528 [6] FATAL LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Fatal Level
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at LogSample.Controllers.HelloWorldController.Index() in C:\Users\raga\Source\Repos\LogSample\LogSample\Controllers\HelloWorldController.cs:line 21
+2019-06-13 11:33:49,586 [6] DEBUG LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Debug Level
+2019-06-13 11:33:49,608 [6] INFO  LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Info Level
+2019-06-13 11:33:49,609 [6] WARN  LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Warn Level
+2019-06-13 11:33:49,698 [6] ERROR LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Error Level
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at LogSample.Controllers.HelloWorldController.Index() in C:\Users\raga\Source\Repos\LogSample\LogSample\Controllers\HelloWorldController.cs:line 21
+2019-06-13 11:33:49,703 [6] FATAL LogSample.Controllers.HelloWorldController [(null)] - Hi I am log4net Fatal Level
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at LogSample.Controllers.HelloWorldController.Index() in C:\Users\raga\Source\Repos\LogSample\LogSample\Controllers\HelloWorldController.cs:line 21
