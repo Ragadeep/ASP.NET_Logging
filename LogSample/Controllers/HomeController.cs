@@ -15,7 +15,7 @@ namespace LogSample.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "This Application describes Raga Log App.";
+            ViewBag.Message = "This Application describes Sample Logging.";
 
             return View();
         }
